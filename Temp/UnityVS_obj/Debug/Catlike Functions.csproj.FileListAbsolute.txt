@@ -1,2 +1,0 @@
-F:\Unity\Catlike Functions\Temp\UnityVS_obj\Debug\Catlike Functions.csprojAssemblyReference.cache
-F:\Unity\Catlike Functions\Temp\UnityVS_obj\Debug\Catlike Functions.csproj.CoreCompileInputs.cache

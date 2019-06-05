@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: b53f5928bea50476c9c89382ed66081b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature_001
+    100004: Armature_002
+    100006: Armature_003
+    100008: Armature_004
+    100010: Camera
+    100012: Feeler
+    100014: Feeler1
+    100016: Feeler2
+    100018: Hair
+    100020: Head
+    100022: Jaw
+    100024: Kyukon
+    100026: Lamp
+    100028: Lamp_001
+    100030: LArm
+    100032: LFeeler
+    100034: LFeeler1
+    100036: LFeeler2
+    100038: LFeelerA
+    100040: LFeelerA1
+    100042: LFeelerA2
+    100044: LFoot
+    100046: LForeArm
+    100048: LHand
+    100050: LLeg
+    100052: LThigh
+    100054: LToe
+    100056: Neck
+    100058: Ninetales
+    100060: //RootNode
+    100062: Ninetales_001
+    100064: NotABone0
+    100066: NotABone1
+    100068: NotABone2
+    100070: Origin
+    100072: RArm
+    100074: RFeeler
+    100076: RFeeler1
+    100078: RFeeler2
+    100080: RFeelerA
+    100082: RFeelerA1
+    100084: RFeelerA2
+    100086: RFoot
+    100088: RForeArm
+    100090: RHand
+    100092: RLeg
+    100094: RThigh
+    100096: RToe
+    100098: Spine
+    100100: Waist
+    400000: Armature
+    400002: Armature_001
+    400004: Armature_002
+    400006: Armature_003
+    400008: Armature_004
+    400010: Camera
+    400012: Feeler
+    400014: Feeler1
+    400016: Feeler2
+    400018: Hair
+    400020: Head
+    400022: Jaw
+    400024: Kyukon
+    400026: Lamp
+    400028: Lamp_001
+    400030: LArm
+    400032: LFeeler
+    400034: LFeeler1
+    400036: LFeeler2
+    400038: LFeelerA
+    400040: LFeelerA1
+    400042: LFeelerA2
+    400044: LFoot
+    400046: LForeArm
+    400048: LHand
+    400050: LLeg
+    400052: LThigh
+    400054: LToe
+    400056: Neck
+    400058: //RootNode
+    400060: Ninetales
+    400062: Ninetales_001
+    400064: NotABone0
+    400066: NotABone1
+    400068: NotABone2
+    400070: Origin
+    400072: RArm
+    400074: RFeeler
+    400076: RFeeler1
+    400078: RFeeler2
+    400080: RFeelerA
+    400082: RFeelerA1
+    400084: RFeelerA2
+    400086: RFoot
+    400088: RForeArm
+    400090: RHand
+    400092: RLeg
+    400094: RThigh
+    400096: RToe
+    400098: Spine
+    400100: Waist
+    2000000: Camera
+    2100000: KyukonEyeDh.png
+    2100002: KyukonChestDh.png
+    2100004: KyukonDh.png
+    4300000: Ninetales_001
+    9500000: //RootNode
+    10800000: Lamp
+    10800002: Lamp_001
+    13700000: Ninetales_001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

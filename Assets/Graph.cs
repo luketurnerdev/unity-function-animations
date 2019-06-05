@@ -3,10 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Graph : MonoBehaviour {
+    //The prefab of the cube to be instantiated
     public Transform pointPrefab;
     //initialize an array of transforms
+    // These hold the individual cubes
     Transform[] points;
   
+    //Set a variable to control how big or small (amount of cubes) the function is
     [Range(10,100)] public int resolution = 10;
 
     // Use this for initialization
@@ -33,9 +36,10 @@ public class Graph : MonoBehaviour {
 
     void Awake()
     {
+        //Disable camera
         //create the object associated with points, using the new keyword. the size is resolution
         points = new Transform[resolution];
-        float step = 2f / resolution;
+        float step = 2f / (resolution * 2.5f );
         Vector3 scale = Vector3.one * step;
         Vector3 position;
 
@@ -47,6 +51,7 @@ public class Graph : MonoBehaviour {
             for (int i=0; i < points.Length; i++)
             {
             Transform point = Instantiate(pointPrefab);
+
 
             position.x = (i + 0.5f) * step - 1f;
             //y is equal to x, this represents f(x) = x.
